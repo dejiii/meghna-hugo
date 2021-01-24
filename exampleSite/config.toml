@@ -1,4 +1,4 @@
-baseURL = "https://test-blog.vercel.app"
+baseURL = "https://test-blog-gamma.vercel.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
